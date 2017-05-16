@@ -33,7 +33,7 @@ public class SmartPhoneTest {
 		g.turnOn();
 		g.pay();
 		g.useSpecialFunction(g);
-		g.turnOff();
+		g.turnOff(); 
 		
 		
 	}
